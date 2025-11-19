@@ -20,7 +20,7 @@ We welcome contributions from our community! If you have tools, scripts, or tuto
 
 For questions or support, please reach out:
 
-- Email: [support@sustainability.stanford.edu](mailto:sdss-compute@stanford.edu)
+- Email: [sdss-compute@stanford.edu](mailto:sdss-compute@stanford.edu)
 - Slack: Join our channel [here](https://stanford.enterprise.slack.com/archives/C041J06TDL4)
 - Schedule a consultation at [sdss-compute-consultation.stanford.edu](https://sdss-compute-consultation.stanford.edu)
 
