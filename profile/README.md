@@ -20,7 +20,8 @@ We welcome contributions from our community! If you have tools, scripts, or tuto
 
 For questions or support, please reach out:
 
-- Email: [support@sustainability.stanford.edu](mailto:support@sustainability.stanford.edu)
-- Slack: Join our workspace [here](https://your-slack-invitation-link)
+- Email: [support@sustainability.stanford.edu](mailto:sdss-compute@stanford.edu)
+- Slack: Join our channel [here](https://stanford.enterprise.slack.com/archives/C041J06TDL4)
+- Schedule a consultation at [sdss-compute-consultation.stanford.edu](https://sdss-compute-consultation.stanford.edu)
 
 Thank you for visiting the Stanford Doerr School of Sustainability Center for Computation! Together, we can make strides in sustainability research through innovative computing and data solutions.
